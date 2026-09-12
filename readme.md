@@ -27,7 +27,7 @@ An end-to-end sports analytics platform that ingests cricket data, manages a nor
 ## 📂 Project Structure
 
 ```text
-crickbuzz/
+cricbuzz/
 │
 ├── app.py                      # Main entry point / router
 ├── pages/
